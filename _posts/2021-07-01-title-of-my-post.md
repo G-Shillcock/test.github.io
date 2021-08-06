@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "More to come soon."
-date: 2021-07-01
+title: "Gray-Scott: A model of Reaction and Diffusion."
+date: 2021-08-01
 ---
 
-Get something to say.
+Mathematical biologists are often interested in modelling phenomenom 
